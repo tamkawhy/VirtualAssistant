@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* trong index.css hoặc global.css */
+@keyframes neonPulse {
+  0%, 100% {
+    text-shadow: 0 0 8px #00ffff, 0 0 16px #00ffff, 0 0 24px #00ffff;
+  }
+  50% {
+    text-shadow: 0 0 16px #00ffff, 0 0 32px #00ffff, 0 0 48px #00ffff;
+  }
+}
+.neon-text {
+  color: #22d3ee; /* cyan-400 */
+  animation: neonPulse 2s infinite;
+}
