@@ -1,4 +1,4 @@
-# Trợ Lý Ảo AI Cá Nhân Hóa
+# AI Virtual Assistant
 
 ## Tổng quan dự án
 Trợ lý ảo AI cá nhân hóa là một ứng dụng web được xây dựng với **MERN Stack** (MongoDB, Express, React, Node.js), tích hợp công nghệ AI để cung cấp trải nghiệm tương tác tự nhiên và tùy chỉnh cho người dùng.  
